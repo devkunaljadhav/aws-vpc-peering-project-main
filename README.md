@@ -11,5 +11,5 @@
 <li>Login through SSH </li></ol>
 <hr>
 
-<footer> lets connect & configure | <a href="https://www.linkedin.com/in/parthiban-online/">LinkedIn
+<footer> lets connect & configure | <a href="https://www.linkedin.com/in/devkunaljadhav/">LinkedIn
 </a></footer>
